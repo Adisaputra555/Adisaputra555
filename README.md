@@ -15,6 +15,6 @@
 <a href="https://x.com/_adisaputra25"><img src="https://raw.githubusercontent.com/Adisaputra555/Adisaputra555/refs/heads/main/x.svg" height="78"/></a>
 <br/>
 <a href="https://www.instagram.com/adibayu025?igsh=MTh2dHVhcG91aGpicQ=="><img src="https://raw.githubusercontent.com/Adisaputra555/Adisaputra555/refs/heads/main/instagram.svg" height="78"/></a>
-<a href="https://www.facebook.com/share/17uCF2imWn/"><img src="https://raw.githubusercontent.com/Amirzamani1l/Amirzamani1l/main/hackster.svg" height="78"/></a>
+<a href="https://www.facebook.com/share/17uCF2imWn/"><img src="https://raw.githubusercontent.com/Adisaputra555/Adisaputra555/refs/heads/main/facebook.svg" height="78"/></a>
 <a href="https://www.threads.com/@adibayu025"><img src="https://raw.githubusercontent.com/Adisaputra555/Adisaputra555/refs/heads/main/threads.svg" height="78"/></a>
 </div>
