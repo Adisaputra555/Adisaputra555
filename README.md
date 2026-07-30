@@ -1,16 +1,20 @@
-## Hi there 👋
+<div align="center">
+<img width="100%" src="https://raw.githubusercontent.com/Amirzamani1l/Amirzamani1l/main/hero.svg" />
+<br/>
+</div>
 
-<!--
-**Adisaputra555/Adisaputra555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<img src="https://raw.githubusercontent.com/Amirzamani1l/Amirzamani1l/main/skills.svg" width="100%"/>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<img width="100%" src="https://raw.githubusercontent.com/Amirzamani1l/Amirzamani1l/main/header.svg" />
+<br/>
+<a href="https://www.linkedin.com/in/amir-zamani-1909a8315"><img src="https://raw.githubusercontent.com/Amirzamani1l/Amirzamani1l/main/linkedin.svg" height="78"/></a>
+<a href="https://t.me/Black_Hydra"><img src="https://raw.githubusercontent.com/Amirzamani1l/Amirzamani1l/main/telegram.svg" height="78"/></a>
+<a href="https://x.com/amirzamani1l"><img src="https://raw.githubusercontent.com/Amirzamani1l/Amirzamani1l/main/x.svg" height="78"/></a>
+<br/>
+<a href="https://instagram.com/amirzamani1l"><img src="https://raw.githubusercontent.com/Amirzamani1l/Amirzamani1l/main/instagram.svg" height="78"/></a>
+<a href="https://hackster.io/amirzamani1l"><img src="https://raw.githubusercontent.com/Amirzamani1l/Amirzamani1l/main/hackster.svg" height="78"/></a>
+<a href="https://www.threads.net/@amirzamani1l"><img src="https://raw.githubusercontent.com/Amirzamani1l/Amirzamani1l/main/threads.svg" height="78"/></a>
+</div>
