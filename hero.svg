@@ -66,7 +66,7 @@
 <path class="corner" d="M24 320 L24 356 L60 356"/>
 <path class="corner" d="M876 320 L876 356 L840 356"/>
 
-<rect x="0" y="0" width="1050" height="40" fill="url(#scanGrad3)" style="animation: scan 6s linear infinite;"/>
+<rect x="0" y="0" width="140" height="40" fill="url(#scanGrad3)" style="animation: scan 6s linear infinite;"/>
 
 <text x="450" y="110" text-anchor="middle" class="name" filter="url(#softglow3)">Bayu Adi Saputra</text>
 <text x="447" y="110" text-anchor="middle" class="name" fill="#ffb347" style="animation: glitch 7s infinite;">Bayu Adi Saputra</text>
