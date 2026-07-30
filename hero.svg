@@ -226,8 +226,8 @@
         </filter>
 
         <filter id="soft">
-            <feGaussianBlur stdDeviation="2"/>
-        </filter>
+    <feGaussianBlur stdDeviation="5"/>
+</filter>
 
 
         <!-- Text Animation Clips -->
@@ -279,8 +279,9 @@
 <text x="450"
     y="110"
     text-anchor="middle"
-    class="name name-glow"
-    fill="#ffb347">
+    class="name"
+    filter="url(#soft)"
+    opacity=".8">
     Bayu Adi Saputra
 </text>
 
@@ -300,7 +301,7 @@
     text-anchor="middle"
     class="name"
     fill="#ffb347"
-    style="animation: glitch 9s infinite">
+    style="animation: glitch 10s infinite"
     Bayu Adi Saputra
 </text>
 
@@ -310,7 +311,7 @@
     text-anchor="middle"
     class="name"
     fill="#dc2626"
-    style="animation: glitch 9s infinite .15s">
+   style="animation: glitch 10s infinite .15s"
     Bayu Adi Saputra
 </text>
 
