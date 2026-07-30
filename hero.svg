@@ -72,7 +72,7 @@
 <text x="447" y="110" text-anchor="middle" class="name" fill="#ffb347" style="animation: glitch 7s infinite;">Bayu Adi Saputra</text>
 <text x="453" y="110" text-anchor="middle" class="name" fill="#dc2626" style="animation: glitch 7s infinite .1s;">Bayu Adi Saputra</text>
 
-<text x="450" y="146" text-anchor="middle" class="sub">HARDWARE · FIRMWARE · ALGORITHMIC TRADING</text>
+<text x="450" y="146" text-anchor="middle" class="sub">WEB DEVELOPER · EDITING · HARDWARE</text>
 
 <rect class="glowbar" x="380" y="164" width="140" height="2.5" fill="#ffb347" filter="url(#glow3)"/>
 
@@ -80,9 +80,9 @@
 <clipPath id="clip2" class="clip2"><rect x="302" y="215" width="0" height="30"/></clipPath>
 <clipPath id="clip3" class="clip3"><rect x="231" y="215" width="0" height="30"/></clipPath>
 
-<text x="353" y="235" text-anchor="start" class="ach" clip-path="url(#clip1)">2ND — NTE ROBOTICS</text>
-<text x="302" y="235" text-anchor="start" class="ach" clip-path="url(#clip2)">3RD — ROBOTICS ENG. NOTEBOOK</text>
-<text x="231" y="235" text-anchor="start" class="ach" clip-path="url(#clip3)">DELEGATE — FIRST GLOBAL 2024, ATHENS 🇬🇷</text>
+<text x="353" y="235" text-anchor="start" class="ach" clip-path="url(#clip1)">1ST HONORABLE MENTION — LKS IT NETWORK SYSTEM</text>
+<text x="302" y="235" text-anchor="start" class="ach" clip-path="url(#clip2)">Top 10 Participants — Lampung Provincial Meme Competition</text>
+<text x="231" y="235" text-anchor="start" class="ach" clip-path="url(#clip3)">SOFTWARE DEVELOPMENT With Qualification PROGRAM ANALYST</text>
 
 <g>
 <rect x="356" y="280" width="188" height="42" rx="10" fill="#2a1006" stroke="#f5a623" stroke-width="1.4" filter="url(#glow3)"/>
