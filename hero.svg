@@ -20,9 +20,9 @@
   .clip1 rect { animation: type1 12s infinite; }
   .clip2 rect { animation: type2 12s infinite; }
   .clip3 rect { animation: type3 12s infinite; }
-  @keyframes type1 { 0%{width:0} 3%{width:0} 11%{width:194px} 27%{width:194px} 33%{width:0} 100%{width:0} }
-  @keyframes type2 { 0%{width:0} 33%{width:0} 36%{width:0} 44%{width:296px} 60%{width:296px} 66%{width:0} 100%{width:0} }
-  @keyframes type3 { 0%{width:0} 66%{width:0} 69%{width:0} 77%{width:438px} 95%{width:438px} 100%{width:0} }
+  @keyframes type1 { 0%{width:0} 3%{width:0} 11%{width:520px} 27%{width:520px} 33%{width:0} 100%{width:0} }
+  @keyframes type2 { 0%{width:0} 33%{width:0} 36%{width:0} 44%{width:640px} 60%{width:640px} 66%{width:0} 100%{width:0} }
+  @keyframes type3 { 0%{width:0} 66%{width:0} 69%{width:0} 77%{width:520px} 95%{width:520px} 100%{width:0} }
 </style>
 
 <radialGradient id="bgGrad3" cx="50%" cy="20%" r="90%">
