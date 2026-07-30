@@ -17,7 +17,7 @@
     95% { transform: translate(3px,-1px); opacity: .7; }
     97% { transform: translate(-2px,0); opacity: .5; }
   }
-.clip1 rect { animation: type1 12s infinite; }
+<!-- .clip1 rect { animation: type1 12s infinite; }
 .clip2 rect { animation: type2 12s infinite; }
 .clip3 rect { animation: type3 12s infinite; }
 
@@ -37,7 +37,7 @@
   0%,69% { width:0; }
   77%,95% { width:600px; }
   100% { width:0; }
-}
+} -->
 </style>
 
 <radialGradient id="bgGrad3" cx="50%" cy="20%" r="90%">
@@ -92,20 +92,28 @@
 <rect class="glowbar" x="380" y="164" width="140" height="2.5" fill="#ffb347" filter="url(#glow3)"/>
 
 <clipPath id="clip1">
-    <rect x="180" y="210" width="0" height="35"/>
+    <rect x="150" y="205" width="600" height="40"/>
 </clipPath>
 
 <clipPath id="clip2">
-    <rect x="120" y="210" width="0" height="35"/>
+    <rect x="150" y="205" width="600" height="40"/>
 </clipPath>
 
 <clipPath id="clip3">
-    <rect x="150" y="210" width="0" height="35"/>
+    <rect x="150" y="205" width="600" height="40"/>
 </clipPath>
 
-<text x="450" y="235" text-anchor="start" class="ach" clip-path="url(#clip1)">1ST HONORABLE MENTION — LKS IT NETWORK SYSTEM</text>
-<text x="450" y="235" text-anchor="start" class="ach" clip-path="url(#clip2)">Top 10 Participants — Lampung Provincial Meme Competition</text>
-<text x="450" y="235" text-anchor="start" class="ach" clip-path="url(#clip3)">SOFTWARE DEVELOPMENT With Qualification PROGRAM ANALYST</text>
+<text x="450" y="235" text-anchor="middle" class="ach" clip-path="url(#clip1)">
+    1ST HONORABLE MENTION — LKS IT NETWORK SYSTEM
+</text>
+
+<text x="450" y="235" text-anchor="middle" class="ach" clip-path="url(#clip2)">
+    Top 10 Participants — Lampung Provincial Meme Competition
+</text>
+
+<text x="450" y="235" text-anchor="middle" class="ach" clip-path="url(#clip3)">
+    DELEGATE — FIRST GLOBAL 2024, ATHENS 🇬🇷
+</text>
 
 <g>
 <rect x="356" y="280" width="188" height="42" rx="10" fill="#2a1006" stroke="#f5a623" stroke-width="1.4" filter="url(#glow3)"/>
