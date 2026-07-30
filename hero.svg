@@ -103,9 +103,9 @@
     <rect x="450" y="210" width="0" height="35"/>
 </clipPath>
 
-<text x="450" y="235" text-anchor="middle" class="ach" clip-path="url(#clip1)">1ST HONORABLE MENTION — LKS IT NETWORK SYSTEM</text>
-<text x="450" y="235" text-anchor="middle" class="ach" clip-path="url(#clip2)">Top 10 Participants — Lampung Provincial Meme Competition</text>
-<text x="450" y="235" text-anchor="middle" class="ach" clip-path="url(#clip3)">SOFTWARE DEVELOPMENT With Qualification PROGRAM ANALYST</text>
+<text x="450" y="235" text-anchor="start" class="ach" clip-path="url(#clip1)">1ST HONORABLE MENTION — LKS IT NETWORK SYSTEM</text>
+<text x="450" y="235" text-anchor="start" class="ach" clip-path="url(#clip2)">Top 10 Participants — Lampung Provincial Meme Competition</text>
+<text x="450" y="235" text-anchor="start" class="ach" clip-path="url(#clip3)">SOFTWARE DEVELOPMENT With Qualification PROGRAM ANALYST</text>
 
 <g>
 <rect x="356" y="280" width="188" height="42" rx="10" fill="#2a1006" stroke="#f5a623" stroke-width="1.4" filter="url(#glow3)"/>
