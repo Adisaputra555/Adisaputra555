@@ -38,6 +38,48 @@
   77%,95% { width:600px; }
   100% { width:0; }
 } -->
+
+.ach1 {
+  animation: show1 12s infinite;
+}
+
+.ach2 {
+  animation: show2 12s infinite;
+}
+
+.ach3 {
+  animation: show3 12s infinite;
+}
+
+@keyframes show1 {
+  0%,33% {
+    opacity:1;
+  }
+  34%,100% {
+    opacity:0;
+  }
+}
+
+@keyframes show2 {
+  0%,33% {
+    opacity:0;
+  }
+  34%,66% {
+    opacity:1;
+  }
+  67%,100% {
+    opacity:0;
+  }
+}
+
+@keyframes show3 {
+  0%,66% {
+    opacity:0;
+  }
+  67%,100% {
+    opacity:1;
+  }
+}
 </style>
 
 <radialGradient id="bgGrad3" cx="50%" cy="20%" r="90%">
@@ -103,15 +145,15 @@
     <rect x="150" y="205" width="600" height="40"/>
 </clipPath>
 
-<text x="450" y="235" text-anchor="middle" class="ach" clip-path="url(#clip1)">
+<text x="450" y="235" text-anchor="middle" class="ach ach1">
     1ST HONORABLE MENTION — LKS IT NETWORK SYSTEM
 </text>
 
-<text x="450" y="235" text-anchor="middle" class="ach" clip-path="url(#clip2)">
+<text x="450" y="235" text-anchor="middle" class="ach ach2">
     Top 10 Participants — Lampung Provincial Meme Competition
 </text>
 
-<text x="450" y="235" text-anchor="middle" class="ach" clip-path="url(#clip3)">
+<text x="450" y="235" text-anchor="middle" class="ach ach3">
     DELEGATE — FIRST GLOBAL 2024, ATHENS 🇬🇷
 </text>
 
