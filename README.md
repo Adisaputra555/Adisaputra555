@@ -39,3 +39,11 @@
 <a href="https://www.facebook.com/share/17uCF2imWn/"><img src="https://raw.githubusercontent.com/Adisaputra555/Adisaputra555/refs/heads/main/facebook.svg" height="78"/></a>
 <a href="https://www.threads.com/@adibayu025"><img src="https://raw.githubusercontent.com/Adisaputra555/Adisaputra555/refs/heads/main/threads.svg" height="78"/></a>
 </div>
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adisaputra555/Adisaputra555/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adisaputra555/Adisaputra555/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Adisaputra555/Adisaputra555/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
