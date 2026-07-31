@@ -40,7 +40,12 @@
 <a href="https://www.threads.com/@adibayu025"><img src="https://raw.githubusercontent.com/Adisaputra555/Adisaputra555/refs/heads/main/threads.svg" height="78"/></a>
 </div>
 
-
+---
+###
+<h2 align="center">Profile View</h1>
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://count.getloli.com/@:Adisaputra555?theme=3d-num&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+</div>
 
 ---
 <div align="center">
